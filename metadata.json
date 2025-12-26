@@ -1,0 +1,5 @@
+{
+  "name": "Geometric Loader Visualizer",
+  "description": "A high-fidelity visualization of a complex SVG-based geometric loader with smooth multi-ring animations.",
+  "requestFramePermissions": []
+}
